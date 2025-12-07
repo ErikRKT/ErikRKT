@@ -9,6 +9,7 @@ I'm a 20-year-old Computer Science student from Brazil, passionate about softwar
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,6 +18,7 @@ I'm a 20-year-old Computer Science student from Brazil, passionate about softwar
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node](https://img.shields.io/badge/node-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Databases:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,12 +41,12 @@ I'm a 20-year-old Computer Science student from Brazil, passionate about softwar
 
 ### 📈 GitHub Stats
 
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikRKT&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikRKT&layout=compact&theme=dracula)
 
 ---
 
 ### 📫 Connect with me
 
-* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-freitas-fontinele-496684285/)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikfreitas025@gmail.com)
